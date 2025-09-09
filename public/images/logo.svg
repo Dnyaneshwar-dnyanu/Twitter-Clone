@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="100 120 312 312">
+  <!-- Black background -->
+  <!-- <rect x="100" y="120" width="312" height="312" fill="#000"/> -->
+  
+  <!-- Stylized "T" (white, with angled cuts like the X logo) -->
+  <g fill="#fff">
+    <!-- Top bar -->
+    <path d="M120 140 L392 140 L360 180 L152 180 Z"/>
+    <!-- Stem -->
+    <path d="M236 180 L276 180 L292 412 L220 412 Z"/>
+  </g>
+</svg>
